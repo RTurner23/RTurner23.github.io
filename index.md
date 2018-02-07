@@ -1,6 +1,6 @@
-#Bio 812 Feb 7 Assignment - Russell Turner
+# Bio 812 Feb 7 Assignment - Russell Turner
 
-###Questions
+### Questions
 
   * **1.** Git is great to manage projects and updates similar to a lab notebook in that all versions of your electronic copy are maintained in case you need to return to a previous version.
   
