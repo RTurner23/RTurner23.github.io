@@ -21,3 +21,5 @@ git revert <commit_id>
   * **5.** 
    + **Pros** Collaboration with muliple people is very easy. You can all work on the same document and then combine later to one streamline complete document. You can also easily track your files to see what has been changed and by who. 
    + **Cons** Largedatasets are difficult to handle using Git. Also learning to use git and the interface takes a while.
+   
+   - test
